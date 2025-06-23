@@ -1,5 +1,3 @@
-<a href="https://github.com/RakelLopes">![Rakel Lopes Profile GIF](./assets/readme-img.gif)</a>
-
 <div>
   <img align="center" width="150" height="160" src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=rakellopes&&show_icons=true&border_color=11111111&theme=react&icon_color=666666&&bg_color=111111&locale=en&border_radius=10&include_all_commits=true&count_private=true&show_owner=true"/>
