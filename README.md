@@ -1,6 +1,22 @@
 <div>
 <div align="center">
-  <img align="center" width="150" height="160" src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=MeKathyZz&show_icons=true&theme=react&bg_color=111111&hide_border=true&icon_color=666666" /><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeKathyZz&theme=react&bg_color=111111&hide_border=true&icon_color=666666&layout=compact&langs_count=7" alt="Top Languages" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="20%">
+      <img width="150" height="160" src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif">
+    </td>
+    <td align="center" width="40%">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=MeKathyZz&show_icons=true&theme=react&bg_color=111111&hide_border=true&icon_color=666666" />
+    </td>
+    <td align="right" width="40%">
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeKathyZz&theme=react&bg_color=111111&hide_border=true&icon_color=666666&layout=compact&langs_count=7" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+</div>
   
   <br><br>
   
