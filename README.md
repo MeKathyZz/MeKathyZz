@@ -1,11 +1,8 @@
 <div>
+  <!---------- Header Starts ---------->
   <p align="center">
   <img src="./header.svg" width="1000" /></p>
-  <!---------- Typing Starts ---------->
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF61F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raquel+Lopes;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Frontend;Always+learning+something+new;Building+things+that+actually+work" />
-  <!---------- Typing Ends ---------->
-  <br>
+  <!---------- Header Ends ---------->
   <!---------- Gif Coding Starts ---------->  
   <img align="center" width="180" height="150" src="https://media1.tenor.com/m/QLh0PhunTj8AAAAC/anime-typing.gif" alt="Typing hands GIF">
   <!---------- Gif Coding Ends ---------->
@@ -21,9 +18,13 @@
     <img src="https://img.shields.io/badge/Typing-readme--typing--svg-BD93F9?style=flat-square&logo=github&logoColor=white"/></a>
   </p>
   <!---------- Credits Ends ---------->
-  <!---------- Rainbow Lines Starts ---------->  
+  <!---------- Typing Starts ---------->
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF61F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raquel+Lopes;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Frontend;Always+learning+something+new;Building+things+that+actually+work" />
+  <!---------- Typing Ends ---------->
+  <!---------- Purple Lines Starts ---------->  
   <img src="./purpleline.svg" width="900" />
-  <!---------- Rainbow Lines Ends ---------->
+  <!---------- Purple Lines Ends ---------->
   </div>
   <!---------- Snake Starts ---------->
   <div align="center"> 
@@ -34,11 +35,11 @@
     </picture> 
   </div>
   <!---------- Snake Ends ---------->
-  <!---------- Rainbow Lines Starts ----------> 
+  <!---------- Purple Lines Starts ----------> 
   <div align="center"> 
     <img src="./purpleline.svg" width="900" />
   </div>
-  <!---------- Rainbow Lines Ends ---------->
+  <!---------- Purple Lines Ends ---------->
   <!---------- Icons Starts ---------->
   <p align="center">
   <b>Main Stack:</b>&nbsp;&nbsp;
@@ -51,11 +52,11 @@
     <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </p>
   <!---------- Icons Ends ---------->
-  <!---------- Rainbow Lines Starts ---------->  
+  <!---------- Purple Lines Starts ---------->  
   <div align="center">
   <img src="./purpleline.svg" width="900" />
   <br>
-  <!---------- Rainbow Lines Ends ---------->
+  <!---------- Purple Lines Ends ---------->
   <!---------- Links Starts ---------->
   <a href="https://www.linkedin.com/in/raquel-lopes-125b21274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"></a>&nbsp;
