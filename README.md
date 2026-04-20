@@ -14,11 +14,9 @@
   <!---------- Credits Start ---------->  
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/badge/Stats-github--readme--stats-BD93F9?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Stats-github--readme--stats-BD93F9?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://img.shields.io/badge/Typing-readme--typing--svg-BD93F9?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Typing-readme--typing--svg-BD93F9?style=flat-square&logo=github&logoColor=white"/></a>
   </p>
   <!---------- Credits Ends ---------->
   <!---------- Rainbow Lines Starts ---------->  
