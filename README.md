@@ -6,7 +6,8 @@
   
   <br><br>
   
-  <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+<div align="center">
+  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
 </div>
 
 <div align="center">
@@ -15,13 +16,17 @@
   
   <br><br>
   
-  <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+<div align="center">
+  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
 </div>
 
   <br>
-  <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+<div align="center">
+  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
 </div>
+
 </div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
