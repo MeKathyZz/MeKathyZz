@@ -33,7 +33,6 @@
     </picture> 
   </div>
   <!---------- Snake Ends ---------->
-  
   <!---------- Rainbow Lines Starts ----------> 
   <div align="center"> 
     <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
@@ -45,11 +44,11 @@
   <b>Main Stack:</b>&nbsp;&nbsp;
     <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img alt="Spring" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Also worked with:</b>&nbsp;&nbsp;
-    <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF61F6&center=true&vCenter=true&width=255&lines=Also+worked+with+:" />&nbsp;&nbsp;
+    <img alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </p>
   <!---------- Icons Ends ---------->
   <!---------- Rainbow Lines Starts ---------->  
