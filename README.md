@@ -1,8 +1,8 @@
 <div>
 <div align="center">
-  <img align="center" width="150" height="160" src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=MeKathyZz&show_icons=true&theme=react&bg_color=111111&hide_border=true&icon_color=666666" />
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeKathyZz&theme=react&bg_color=111111&hide_border=true&icon_color=666666&layout=compact&langs_count=7" alt="Top Languages" />
+  <img align="justify" width="150" height="160" src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif">
+  <img height="160" align="justify" src="https://github-readme-stats.vercel.app/api?username=MeKathyZz&show_icons=true&theme=react&bg_color=111111&hide_border=true&icon_color=666666" />
+  <img height="160" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeKathyZz&theme=react&bg_color=111111&hide_border=true&icon_color=666666&layout=compact&langs_count=7" alt="Top Languages" />
   
   <br><br>
   
