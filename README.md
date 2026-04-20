@@ -1,6 +1,6 @@
 <div>
   <img align="center" width="150" height="160" src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=rakellopes&show_icons=true&theme=react" />
+ <img height="160" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakellopes&show_icons=true&theme=react&bg_color=111111&border_color=111111&icon_color=666666" />
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeKathyZz&theme=react&icon_color=666666&bg_color=111111&border_color=111111&layout=compact&langs_count=7" alt="Top Languages" />
   <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
 </div>
