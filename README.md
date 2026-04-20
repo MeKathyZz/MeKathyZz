@@ -1,4 +1,6 @@
 <div>
+  <p align="center">
+  <img src="./header.svg" width="1000" /></p>
   <!---------- Typing Starts ---------->
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF61F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raquel+Lopes;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Frontend;Always+learning+something+new;Building+things+that+actually+work" />
@@ -20,8 +22,7 @@
   </p>
   <!---------- Credits Ends ---------->
   <!---------- Rainbow Lines Starts ---------->  
-  <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
-  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+  <img src="./purpleline.svg" width="900" />
   <!---------- Rainbow Lines Ends ---------->
   </div>
   <!---------- Snake Starts ---------->
@@ -35,8 +36,7 @@
   <!---------- Snake Ends ---------->
   <!---------- Rainbow Lines Starts ----------> 
   <div align="center"> 
-    <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
-    <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+    <img src="./purpleline.svg" width="900" />
   </div>
   <!---------- Rainbow Lines Ends ---------->
   <!---------- Icons Starts ---------->
@@ -53,8 +53,7 @@
   <!---------- Icons Ends ---------->
   <!---------- Rainbow Lines Starts ---------->  
   <div align="center">
-  <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
-  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
+  <img src="./purpleline.svg" width="900" />
   <br>
   <!---------- Rainbow Lines Ends ---------->
   <!---------- Links Starts ---------->
