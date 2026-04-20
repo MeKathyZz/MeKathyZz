@@ -13,17 +13,6 @@
 <div align="center">
   <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
 </div>
-  
-  <br><br>
-  
-<div align="center">
-  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
-</div>
-
-  <br>
-<div align="center">
-  <img width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
-</div>
 
 </div>
 
