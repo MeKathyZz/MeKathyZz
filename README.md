@@ -60,7 +60,7 @@
   <!---------- Rainbow Lines Ends ---------->
   <!---------- Links Starts ---------->
   <a href="https://www.linkedin.com/in/raquel-lopes-125b21274/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"></a>
+  <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"></a>&nbsp;
   <a href="https://discordapp.com/users/kaathyzz" target="_blank">
   <img src="https://img.shields.io/badge/Discord-282A36?style=for-the-badge&logo=discord&logoColor=BD93F9"></a>
   <!---------- Links Ends ---------->
