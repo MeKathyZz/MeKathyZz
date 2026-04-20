@@ -4,7 +4,7 @@
    
   <br>
     
-  <img align="center" width="180" height="150" src="https://media1.tenor.com/m/QLh0PhunTj8AAAAC/anime-typing.gif" alt="Megumin GIF">
+  <img align="center" width="180" height="150" src="https://media1.tenor.com/m/QLh0PhunTj8AAAAC/anime-typing.gif" alt="Typing hands GIF">
   
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=MeKathyZz&show_icons=true&theme=react&bg_color=111111&hide_border=true&icon_color=FF61F6&title_color=FF61F6" />
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeKathyZz&theme=react&bg_color=111111&hide_border=true&layout=compact&langs_count=7&title_color=FF61F6&text_color=CCCCCC" />
