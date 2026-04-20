@@ -6,13 +6,15 @@
   <br>
   <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
   </div>
-  
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./github-snake-white.svg"/>
-    <img alt="github contribution grid snake animation" src="./github-snake-dark.svg"/>
-  </picture> 
 
+  <div align="center"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="./github-snake-white.svg"/>
+      <img alt="github contribution grid snake animation" src="./github-snake-dark.svg"/>
+    </picture> 
+  </div>
+  
   <div align="center"> 
     <img align="center" width="990" height="8" src="https://media.tenor.com/3HFKgdT-FiQAAAAi/line-rainbow.gif">
     <div style="display: inline_block"><br>
