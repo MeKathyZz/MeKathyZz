@@ -42,6 +42,7 @@
   <!---------- Purple Lines Ends ---------->
   <!---------- Icons Starts ---------->
   <p align="center">
+    <br>
     <img src="./main.svg">&nbsp;&nbsp;
     <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img alt="Spring" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;&nbsp;
