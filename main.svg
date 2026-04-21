@@ -1,28 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110">
-
-  <!-- Título -->
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="110">
   <text x="50%" y="25"
         text-anchor="middle"
-        font-size="24"
+        font-size="18"
         font-family="Fira Code, Consolas, monospace"
         fill="#cbd5e1">
     Main Stack
   </text>
-
-  <!-- Ícones -->
-  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         x="310" y="45" width="40" height="40"/>
-
-  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-         x="360" y="45" width="40" height="40"/>
-
-  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-         x="410" y="45" width="40" height="40"/>
-
-  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-         x="460" y="45" width="40" height="40"/>
-
-  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         x="510" y="45" width="40" height="40"/>
-
 </svg>
