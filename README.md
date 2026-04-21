@@ -56,8 +56,8 @@
   <!---------- Purple Lines Starts ---------->  
   <div align="center">
   <img src="./purpleline.svg" width="900" />
-  <br>
   <!---------- Purple Lines Ends ---------->
+  <br>
   <!---------- Links Starts ---------->
   <a href="https://www.linkedin.com/in/raquel-lopes-125b21274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"></a>&nbsp;
