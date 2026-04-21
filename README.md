@@ -42,10 +42,10 @@
   <!---------- Purple Lines Ends ---------->
   <!---------- Icons Starts ---------->
   <p align="center">
-  <img src="./main.svg">&nbsp;&nbsp;
+    <img src="./main.svg">&nbsp;&nbsp;
     <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img alt="Spring" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./also.svg">&nbsp;&nbsp;
+    <img alt="Spring" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;&nbsp;
+    <img src="./also.svg">&nbsp;&nbsp;
     <img alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
